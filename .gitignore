@@ -1,0 +1,5 @@
+/.idea
+revisamigrieta_bot.iml
+credentials.py
+__pycache__/
+db.sqlite3
