@@ -13,7 +13,15 @@ def dora():
              'Puedo ayudarte con información para revisar tu estructura en: http://bit.ly/RevisaMiGrieta, espera meintras alguien te ayuda'
         ],
         [
-            'quiero reportar una grieta en mi casa',
+            'quiero reportar una grieta',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'quiero reportar una cuarteadura',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'quiero reportar una fractura',
              'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
         ],
         [
@@ -22,6 +30,26 @@ def dora():
         ],
         [
             'grieta',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'cuarteadura',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'hay una fractura en mi casa',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'como reporto una grieta',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'como reporto una cuarteadura',
+             'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
+        ],
+        [
+            'como reporto una fractura',
              'Por favor, entra al siguiente link para registrar la falla: http://bit.ly/rescateMX'
         ],
         [
