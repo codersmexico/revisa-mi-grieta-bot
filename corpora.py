@@ -23,5 +23,22 @@ def dora():
         [
             'necesito un albergue',
              'Puedo ayudarte con la lista de albergues en: http://bit.ly/rescateMX'
-        ]
+        ],
+        [
+            'albregues disponibles',
+             'Puedo ayudarte con la lista de albergues en: http://bit.ly/rescateMX'
+        ],
+        [
+            'centro de acopio',
+             'Puedo darte la lista de centros de acopio en: http://bit.ly/rescateMX'
+        ],
+        [
+            'centros de acopio',
+             'Puedo darte la lista de centros de acopio en: http://bit.ly/rescateMX'
+        ],
+        [
+            'donde puedo donar?',
+             'Puedo darte la lista de centros de acopio en: http://bit.ly/rescateMX'
+        ],
     ]
+
