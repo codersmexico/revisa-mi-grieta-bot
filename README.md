@@ -25,8 +25,18 @@ Revisa [corpora.py](./corpora.py) y agrega las preguntas y sus correspondientes 
 ## Contribuye
 Revisa los [issues](https://github.com/codersmexico/revisa-mi-grieta-bot/issues) y manda Pull Request.
 
-## Team
+## Team de este proyecto
  - [Poguez](http://noedominguez.com)
+ 
+## Repositorios relacionados:
+
+- [Guía rápida y accesible para usuarios del hashtag #RevisaMiGrieta](https://github.com/codersmexico/grieta-landing)
+    - Lead: [@mike3run](https://github.com/mike3run)
+- [Revisa Mi Grieta API Backend](https://github.com/digaresc/revisamigrieta-api-backend)
+    - Lead: [@digaresc](https://github.com/digaresc)
+- [Revisa Mi Grieta Front-end app](https://github.com/digaresc/revisamigrieta-frontend)
+    - Lead: [@digaresc](https://github.com/digaresc)
+
 
 ## Licencia
 
