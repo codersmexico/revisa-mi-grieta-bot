@@ -5,6 +5,12 @@
 Proyecto para atender alguna de las necesidades después del SismoMX del 19 de Septiembre de 2017.
 El bot está diseñado para trabajar con la API de Twitter.
 
+## Diseño del bot
+
+Diseño gráfico ~~en bonito :P~~ de la revista Fortune México Edición octubre 2017.
+![alt text](./revisa_mi_grieta_bot.jpg "#RevisaMiGrieta bot")
+
+
 ## Dependencias:
 
 El proyecto fue creado con Python 3.6
