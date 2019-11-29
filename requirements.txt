@@ -16,4 +16,4 @@ ruamel.yaml==0.15.0
 six==1.11.0
 SQLAlchemy==1.1.14
 twitter==1.17.1
-urllib3==1.22
+urllib3==1.24.2
